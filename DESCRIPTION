@@ -1,0 +1,12 @@
+Package: ADLals
+Type: Package
+Title:Realiza una clasficación en base al analisis de discriminantes lineales
+Version: 0.1.0
+Author: Carlos Alessandro Becerril Estrada
+Maintainer: The package maintainer <alessandrobecerril333@gmail.com>
+Description:La función ADL realiza cálculos estadísticos, divide los datos en dos grupos (y igual a 0 y 1), y calcula un resultado específico para cada grupo basado en las estadísticas calculadas previamente. Luego, imprime los resultados obtenidos.
+References:Santiago de la Fuente Fernández. (2011). Análisis Discriminante.
+license: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
